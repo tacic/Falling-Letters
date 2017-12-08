@@ -1,6 +1,6 @@
 # Falling-Letters
 
-You write a word you want in HTML and letters fall from different sides to the middle of the page.
+You write a word you want in HTML and letters fall from different sides to the middle of the page...
 
 HTML, CSS and JS are all in one file...
 
