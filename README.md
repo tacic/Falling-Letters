@@ -2,7 +2,7 @@
 
 You write a word you want in HTML and letters fall from different sides to the middle of the page.
 
-HTML, CSS and JS are all in one file...
+HTML, CSS and JS are all in one file.
 
 You can change the start possition of the letters, the speed of falling or the words you want to see in css part of .html file...
 
